@@ -1,6 +1,6 @@
 {
   "name": "react-provide",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Helpers to create React components for putting values into context and pulling them out as props",
   "main": "lib/index.js",
   "scripts": {

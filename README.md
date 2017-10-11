@@ -68,7 +68,7 @@ e.g.
 ```js
 import { contextProvider } from 'react-provide'
 
-const Provider = createContextProvider('foo')
+const Provider = contextProvider('foo')
 
 <Provider foo={'bar'}>
   {/* your component tree */}

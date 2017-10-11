@@ -40,5 +40,16 @@
       "lib"
     ],
     "parser": "babel-eslint"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tableflip/react-provide.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tableflip/react-provide/issues"
+  },
+  "homepage": "https://github.com/tableflip/react-provide#readme"
 }

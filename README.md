@@ -1,6 +1,8 @@
 # react-provide
 
-React Components for putting a value in context and fishing it out. Avoids deep chains of prop passing.
+[![dependencies Status](https://david-dm.org/tableflip/react-provide/status.svg)](https://david-dm.org/tableflip/react-provide) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
+> React Components for putting a value in context and fishing it out. Avoids deep chains of prop passing.
 
 ## Install
 

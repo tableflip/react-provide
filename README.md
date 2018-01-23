@@ -96,3 +96,13 @@ class MyComponent extends Component {
 
 export default withContext('foo')(MyComponent)
 ```
+
+## Contribute
+
+Feel free to dive in! [Open an issue](https://github.com/tableflip/react-provide/issues/new) or submit PRs.
+
+## License
+
+[MIT](LICENSE) © Alan Shaw
+
+
